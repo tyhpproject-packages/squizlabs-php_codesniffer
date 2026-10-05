@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/squizlabs-php_codesniffer",
+    "description": "Tyhp type definitions for squizlabs/php_codesniffer 3.13.6.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "3.13.6",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/squizlabs-php_codesniffer-impl": "~3.13.6.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/squizlabs-php_codesniffer-impl"
+        }
+    }
+}
