@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/squizlabs-php_codesniffer
 
-Tyhp type definitions for `squizlabs/php_codesniffer` `3.13.6`.
+Tyhp type definitions for `squizlabs/php_codesniffer` `4.0.4`.
 
 ```bash
-composer require --dev tyhpdef/squizlabs-php_codesniffer:3.13.6
+composer require --dev tyhpdef/squizlabs-php_codesniffer:4.0.4
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/squizlabs-php_codesniffer-impl` (type files).
